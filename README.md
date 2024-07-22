@@ -1,5 +1,6 @@
 ## Hi there 👋
 [My Channel](https://www.youtube.com/watch?v=cvh0nX08nRw)
+<br>[Other developers channel](https://craftingdragon007.palaten.net/)
 <!--
 **4R3all/4R3all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
